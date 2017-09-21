@@ -1,6 +1,8 @@
 # resume
 
-> my resume
+> 我的动态简历
+
+### 已放在项目[github page](https://knightkiz.github.io/resume/)上
 
 ## Build Setup
 
