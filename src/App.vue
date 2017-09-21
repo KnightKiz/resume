@@ -15,7 +15,7 @@ export default {
       currentStyleContent: '',
       styleContent:
 `
-* 原出处 http://strml.net/
+* 参考 http://strml.net/
 * 大家好，我叫陈东奇
 * 秋招开始了，我一个offer都没拿到
 * 希望做这个简历能给我点luck吧
@@ -170,7 +170,7 @@ html{
 链接
 ----
 > [GitHub](https://github.com/KnightKiz)`,
-    speed: 50
+    speed: 70
     }
   },
   created () {

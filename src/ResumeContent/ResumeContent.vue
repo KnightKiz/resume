@@ -13,7 +13,6 @@ export default {
 	},
 	computed: {
 		markContent () {
-			console.log(this.resumeContent);
 			return this.isMarked ? marked(this.resumeContent) : this.resumeContent;
 		}
 	},
